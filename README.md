@@ -1,6 +1,6 @@
 # Python - Guess the number ✨1️⃣-🔟
 
-Game made it in pygame with python, learning the basic of the engine.
+Game made it in python to guess the number.
 
 ### Features
  1. Show the number range form 1 to 100
