@@ -1,4 +1,4 @@
-# Pygame - Guess the number ✨1️⃣-🔟
+# Python - Guess the number ✨1️⃣-🔟
 
 Game made it in pygame with python, learning the basic of the engine.
 
